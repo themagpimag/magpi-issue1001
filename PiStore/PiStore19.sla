@@ -201,7 +201,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347091674805" YPOS="360.080718994141" WIDTH="538.588317871094" HEIGHT="450.786712646484" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 450.787 538.588 450.787 538.588 450.787 538.588 450.787 0 450.787 0 450.787 0 450.787 0 450.787 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 450.787 538.588 450.787 538.588 450.787 538.588 450.787 0 450.787 0 450.787 0 450.787 0 450.787 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Body text" LAYER="6" BOOKMARK="0" NEXTITEM="26" BACKITEM="-1">
-            <ITEXT CH="Twelve months ago the Pi Store was launched with just 24 titles. Today there are over 100 titles and the vast majority are free. The MagPi takes a look at some of the diverse content in the Pi Store, especially the non-free content, to help you determine what is worthy of your time and money."/>
+            <ITEXT CH="Two years ago the Pi Store was launched with just 24 titles. Today there are over 120 titles and the vast majority are free. The MagPi takes a look at some of the diverse content in the Pi Store, especially the non-free content, to help you determine what is worthy of your time and money."/>
             <para PARENT="Body text"/>
             <para/>
             <ITEXT CH="Digital downloads"/>
@@ -235,9 +235,9 @@
             <ITEXT CH="     discover new content for their computer. "/>
             <para PARENT="Body text" ALIGN="0"/>
             <para PARENT="Body text" ALIGN="0"/>
-            <ITEXT CH="Unfortunately some did not see this and criticised the Foundation for teaching kids capitalism! But is this any different from giving kids pocket money for doing chores? Having said that, there are currently 100+ titles and at the time of writing only six cost money... and you can buy them all and still have change from US$12.00/"/>
+            <ITEXT CH="Unfortunately some did not see this and criticised the Foundation for teaching kids capitalism! But is this any different from giving kids pocket money for doing chores? Having said that, there are currently 100+ apps and at the time of writing only eleven cost money... and you can buy them all and still have change from US$20.00/"/>
             <ITEXT FONT="FreeSans Regular" CH="£"/>
-            <ITEXT CH="8.00. "/>
+            <ITEXT CH="13.00. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="The Pi Store content is divided into five categories; Games, Apps, Tutorials, Dev Tools and Media. Before we explore each of these areas here are some navigation tips that will help you find the content you want. "/>
@@ -284,7 +284,7 @@
             <para PARENT="Body text"/>
             <ITEXT CH="Games"/>
             <para PARENT="Body title"/>
-            <ITEXT CH="Surprisingly this is not the largest category in the Pi Store, but with 30 titles at the time of writing there is something for all gamers here."/>
+            <ITEXT CH="Unsurprisingly this is the largest category in the Pi Store. With 48 titles at the time of writing there is something for all gamers here."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT FONT="FreeSans Regular" CH="In "/>
@@ -296,11 +296,10 @@
             <ITEXT CH=" key. It looks like the mouse should work, but it didn't for me."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Alas "/>
-            <ITEXT FONT="FreeSans Bold" CH="Zombie X Pro"/>
+            <ITEXT FONT="FreeSans Bold" CH="Martian Invaders"/>
             <ITEXT CH=" ($1.60/"/>
             <ITEXT FONT="FreeSans Regular" CH="£"/>
-            <ITEXT CH="1.00) refused to run correctly for me so I cannot comment on it. There is a demo option you can try to see if it works for you."/>
+            <ITEXT CH="1.00) ?????"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT FONT="FreeSans Bold" CH="DmazeD"/>
@@ -331,15 +330,17 @@
             <ITEXT FONT="FreeSans Bold" CH="Freeciv"/>
             <ITEXT CH=" - an empire building strategy game, "/>
             <ITEXT FONT="FreeSans Bold" CH="Sqrxz 2"/>
-            <ITEXT CH=" and "/>
+            <ITEXT CH=", "/>
             <ITEXT FONT="FreeSans Bold" CH="Sqrxz 3"/>
+            <ITEXT CH=" and "/>
+            <ITEXT FONT="FreeSans Bold" CH="Sqrxz 4"/>
             <ITEXT CH=" - platformers,  the impressive "/>
             <ITEXT FONT="FreeSans Bold" CH="Open Arena"/>
-            <ITEXT CH=" - first person shooter, "/>
+            <ITEXT CH=" - first person shooter and "/>
             <ITEXT FONT="FreeSans Bold" CH="OpenTTD"/>
-            <ITEXT CH=" - a simulation game based on Transport Tycoon Deluxe and "/>
+            <ITEXT CH=" - a simulation game based on Transport Tycoon Deluxe. Alas the promising "/>
             <ITEXT FONT="FreeSans Bold" CH="Iridium Rising"/>
-            <ITEXT CH=" - a 3D space game but currently suffering a &quot;Servers Full&quot; issue."/>
+            <ITEXT CH=" - a 3D space game, has been offline for over a year so you can ignore it."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="The first commercial game on the Pi Store was "/>
@@ -349,14 +350,18 @@
             <para PARENT="Body text"/>
             <ITEXT CH="Apps"/>
             <para PARENT="Body title"/>
-            <ITEXT CH="By far the largest category in the Pi Store, there is an incredible selection of titles ranging from utilities to emulators to media programs to 'heavy-weight' applications. Examples of the latter are "/>
+            <ITEXT CH="The second largest largest category in the Pi Store, there is an incredible selection of titles ranging from utilities to emulators to media programs to 'heavy-weight' applications. Examples of the latter are "/>
             <ITEXT FONT="FreeSans Bold" CH="Asterisk"/>
             <ITEXT CH=" - a PBX system and the brilliant "/>
             <ITEXT FONT="FreeSans Bold" CH="LibreOffice"/>
             <ITEXT CH=" - a Microsoft Office compatible and equivalent office suite."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Four of the six paid applications can be found here. "/>
+            <ITEXT CH="Four of the eleven paid applications can be found here. "/>
+            <ITEXT FONT="FreeSans Bold" CH="100 Tools Swiss File Knife"/>
+            <ITEXT FONT="FreeSans Regular" CH=" (US$/£1.99) ???"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
             <ITEXT FONT="FreeSans Bold" CH="OMX Player Remote GUI"/>
             <ITEXT CH=" (US$3.00/"/>
             <ITEXT FONT="FreeSans Regular" CH=" £"/>
@@ -377,15 +382,9 @@
             <ITEXT CH="0.60) is a very flexible configuration manager for hardware tweaking. It provides a GUI for overclocking every aspect of the Raspberry Pi, but for me its real strength is with its video configuration. Visually get the perfect monitor setup quickly and easily. No more black bars! Multiple presets can be saved so if you take your Raspberry Pi to different locations (e.g. school, Raspberry Jam, hackspace) you can get the best display configuration quickly without changing your 'home' settings."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONT="FreeSans Bold" CH="Timewaster"/>
-            <ITEXT CH=" (US$0.79/"/>
-            <ITEXT FONT="FreeSans Regular" CH="£"/>
-            <ITEXT CH="0.49) wastes not only your time, but also your money, if you are stupid enough to buy it - which I did so you won't! It is disappointing that this was even allowed in the Pi Store in the first place. "/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
             <ITEXT CH="I was not familiar with "/>
             <ITEXT FONT="FreeSans Bold" CH="XIX Music Player"/>
-            <ITEXT CH=", but it is pleasantly surprising and is definitely worth downloading. I am using it to listen to internet radio (Absolute Radio from the UK, Hit FM from Belgium, MacJingle Heartbeat from Austria...) while I layout this article using Scribus and all running smoothly on the Raspberry Pi. "/>
+            <ITEXT CH=", but it is pleasantly surprising and is definitely worth downloading. (Change the Status to &quot;In Progress&quot; to see this). I am using it to listen to internet radio (Absolute Radio from the UK, Hit FM from Belgium, MacJingle Heartbeat from Austria...) while I layout this article using Scribus and all running smoothly on the Raspberry Pi. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Staying with the music theme there are two music creation applications in the Pi Store. "/>
@@ -418,7 +417,11 @@
             <ITEXT FONT="FreeSans Bold" CH="Effects Sprite Pack"/>
             <ITEXT CH=" and "/>
             <ITEXT FONT="FreeSans Bold" CH="Audio Effects Pack"/>
-            <ITEXT CH=" for your Python and Scratch games... and of course all free to use."/>
+            <ITEXT CH=" for your Python and Scratch games plus "/>
+            <ITEXT FONT="FreeSans Bold" CH="Michelle's Minetools"/>
+            <ITEXT CH=" and "/>
+            <ITEXT FONT="FreeSans Bold" CH="GLG Toolkit"/>
+            <ITEXT CH="... of course all free to use."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="There is also the very excellent "/>
@@ -436,7 +439,7 @@
             <ITEXT CH="Conclusion"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="With over 2 million Raspberry Pis sold worldwide and the Pi Store being located on the desktop of Raspbian, it has the potential to be an incredible resource and the &quot;go to&quot; place for Raspberry Pi content. It is easy to upload so why not share your original programs or tutorials with others? The Pi Store is there for your benefit and the benefit of the community, so go use it."/>
+            <ITEXT CH="With over 4 million Raspberry Pis sold worldwide and the Pi Store being located on the desktop of Raspbian, it has the potential to be an incredible resource and the &quot;go to&quot; place for Raspberry Pi content. It is easy to upload so why not share your original programs or tutorials with others? The Pi Store is there for your benefit and the benefit of the community, so go use it."/>
             <trail PARENT="Body text"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
